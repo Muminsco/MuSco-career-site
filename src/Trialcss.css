@@ -18,7 +18,7 @@ body{
 .navbar a{
     text-decoration: none;
     color: rgb(42, 9, 228);
-    font-size: 1.8rem;
+    font-size: 1.7rem;
 }
 .navbar-nav {
     list-style: none;
@@ -26,7 +26,7 @@ body{
     align-items: center;
 }
 .navbar-nav li a{
-    font-size: 1rem;
+    font-size: 1.2rem;
     padding: 0.5em 1em;
     transition: background 0.3s ease-in-out;
 }
